@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Intents Introduction</string>
+    <string name="full_name_label">Please enter your name and press Go!</string>
+    <string name="welcome_message">Hello %s, we hope you enjoy using the app!</string>
+    <string name="full_name_hint">Your full name</string>
+    <string name="check_button_text">Go!</string>
+</resources>
